@@ -1,0 +1,6 @@
+[
+  { "customerId": "C1", "orderId": "O1", "category": "Books", "amount": 200 },
+  { "customerId": "C1", "orderId": "O2", "category": "Electronics", "amount": 800 },
+  { "customerId": "C1", "orderId": "O3", "category": "Books", "amount": 300 },
+  { "customerId": "C2", "orderId": "O4", "category": "Books", "amount": 150 }
+]
