@@ -1,0 +1,23 @@
+[
+  {
+    "orderId": "ORD001",
+    "customerName": "John Doe",
+    "item": "Red Shirt",
+    "totalPrice": 1000,
+    "orderDate": "2023-11-01T14:30:00Z"
+  },
+  {
+    "orderId": "ORD001",
+    "customerName": "John Doe",
+    "item": "Blue Jeans",
+    "totalPrice": 1200,
+    "orderDate": "2023-11-01T14:30:00Z"
+  },
+  {
+    "orderId": "ORD002",
+    "customerName": "Jane Smith",
+    "item": "Blue Jeans",
+    "totalPrice": 1200,
+    "orderDate": "2023-11-02T10:15:00Z"
+  }
+]
