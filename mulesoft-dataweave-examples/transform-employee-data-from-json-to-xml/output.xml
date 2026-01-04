@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Employees xmlns="http://company.com/hr">
+  <Employee id="1" senior="false">
+    <name>Alice</name>
+    <dept>HR</dept>
+  </Employee>
+  <Employee id="3" senior="true">
+    <name>Charlie</name>
+    <dept>HR</dept>
+  </Employee>
+</Employees>
