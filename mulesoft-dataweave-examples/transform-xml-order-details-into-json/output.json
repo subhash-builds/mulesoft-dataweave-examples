@@ -1,0 +1,23 @@
+{
+  "orderId": "ORD123",
+  "date": "2024-11-12",
+  "Customer": {
+    "Name": "John",
+    "Email": "john@test.com"
+  },
+  "Items": [
+    {
+      "sku": "A100",
+      "qty": "2",
+      "price": "50.5",
+      "total": 101
+    },
+    {
+      "sku": "B200",
+      "qty": "1",
+      "price": "99.9",
+      "total": 99.9
+    }
+  ],
+  "grandTotal": 200.9
+}
