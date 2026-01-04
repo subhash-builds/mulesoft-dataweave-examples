@@ -1,0 +1,20 @@
+[
+  {
+    "email": "krishna@example.com",
+    "customerName": "Krishna Sri",
+    "mostExpensiveItem": "Laptop",
+    "orderStatus": "Delivered",
+    "totalAfterDiscount": 74100,
+    "totalBeforeDiscount": 78000,
+    "totalItems": 3
+  },
+  {
+    "email": "laxmi@example.com",
+    "customerName": "Laxmi Sharma",
+    "mostExpensiveItem": "Phone",
+    "orderStatus": "Pending",
+    "totalAfterDiscount": 29880,
+    "totalBeforeDiscount": 33200,
+    "totalItems": 3
+  }
+]

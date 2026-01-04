@@ -1,0 +1,49 @@
+[
+    {
+        "customer": {
+            "email": "krishna@example.com",
+            "name": "Krishna Sri"
+        },
+        "discount": 0.05,
+        "items": [
+            {
+                "price": 75000,
+                "product": "Laptop",
+                "qty": 1
+            },
+            {
+                "price": 1500,
+                "product": "Mouse",
+                "qty": 2
+            }
+        ],
+        "orderId": "A101",
+        "status": "Delivered"
+    },
+    {
+        "customer": {
+            "email": "laxmi@example.com",
+            "name": "Laxmi Sharma"
+        },
+        "discount": 0.1,
+        "items": [
+            {
+                "price": 30000,
+                "product": "Phone",
+                "qty": 1
+            },
+            {
+                "price": 1200,
+                "product": "Charger",
+                "qty": 1
+            },
+            {
+                "price": 2000,
+                "product": "Earphones",
+                "qty": 1
+            }
+        ],
+        "orderId": "A102",
+        "status": "Pending"
+    }
+]
