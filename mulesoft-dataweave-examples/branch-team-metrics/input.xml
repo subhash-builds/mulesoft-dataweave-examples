@@ -1,0 +1,32 @@
+<Company>
+    <Branch code="BLR">
+        <Teams>
+            <Team>
+                <Name>Alpha</Name>
+                <Members>
+                    <Member role="lead">Subhash</Member>
+                    <Member role="dev">Krishna</Member>
+                </Members>
+            </Team>
+            <Team>
+                <Name>Alpha1</Name>
+                <Members>
+                    <Member role="lead">Mac</Member>
+                    <Member role="ass-dev">Shiva</Member>
+                </Members>
+            </Team>
+        </Teams>
+    </Branch>
+    <Branch code="HYD">
+        <Teams>
+            <Team>
+                <Name>Beta</Name>
+                <Members>
+                    <Member role="lead">Virat</Member>
+                    <Member role="dev">Dhoni</Member>
+                    <Member role="dev">Rohit</Member>
+                </Members>
+            </Team>
+        </Teams>
+    </Branch>
+</Company>
