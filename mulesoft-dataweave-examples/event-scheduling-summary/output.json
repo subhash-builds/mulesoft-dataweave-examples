@@ -1,0 +1,14 @@
+[
+  {
+    "datetime": "2020-01-02T18:00:00",
+    "event": "Study for cert exam",
+    "organizer": "Ross",
+    "day": "thu"
+  },
+  {
+    "datetime": "2020-01-01T08:00:00",
+    "event": "Breakfast @ Cafe",
+    "organizer": "Phoebe",
+    "day": "wed"
+  }
+]
