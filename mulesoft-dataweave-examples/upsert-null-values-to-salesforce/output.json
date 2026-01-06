@@ -1,0 +1,12 @@
+{
+  "Id": "123",
+  "FirstName": "Subhash",
+  "LastName": "Nagula",
+  "Salary": "1.2 lakhs",
+  "Email": "",
+  "Location": "Hyderabad",
+  "filedsToNull": [
+    "Company",
+    "Email"
+  ]
+}
