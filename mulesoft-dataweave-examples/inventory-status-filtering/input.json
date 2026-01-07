@@ -1,0 +1,16 @@
+[
+{
+   "orderId": 1,
+   "items": [
+     { "name": "Pen", "qty": 2, "status": "available" },
+     { "name": "Book", "qty": 0, "status": "out_of_stock" },
+     { "name": "Cover", "qty": 0, "status": "out_of_stock" }
+   ]
+},
+{
+   "orderId": 2,
+   "items": [
+     { "name": "Shirt", "qty": 1, "status": "available" }
+   ]
+}
+]
