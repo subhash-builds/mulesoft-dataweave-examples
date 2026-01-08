@@ -2,7 +2,7 @@
 output application/xml
 var orders=payload.Orders.*Order
 fun totalOrderCost(item)= sum((item.Items.*Item map ({
-                "total": ($.Price * $.Qty)
+                "total": (($.Price  default 0) * ($.Qty  default 0))
             }))."total")
 ---
 ProcessedOrders: {
