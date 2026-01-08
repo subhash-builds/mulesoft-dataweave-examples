@@ -1,0 +1,38 @@
+<Orders>
+    <Order id="O101" status="NEW">
+        <Customer>
+            <Name>Subhash</Name>
+            <City>Hyderabad</City>
+        </Customer>
+        <Items>
+            <Item>
+                <Product>P001</Product>
+                <Qty>2</Qty>
+                <Price>500</Price>
+            </Item>
+            <Item>
+                <Product>P002</Product>
+                <Qty>1</Qty>
+                <Price>200</Price>
+            </Item>
+        </Items>
+    </Order>
+    <Order id="O102" status="NEW">
+        <Customer>
+            <Name>Mayuri</Name>
+            <City>Hyderabad</City>
+        </Customer>
+        <Items>
+            <Item>
+                <Product>P003</Product>
+                <Qty>4</Qty>
+                <Price>300</Price>
+            </Item>
+            <Item>
+                <Product>P004</Product>
+                <Qty>2</Qty>
+                <Price>200</Price>
+            </Item>
+        </Items>
+    </Order>
+</Orders>
