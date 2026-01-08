@@ -1,0 +1,34 @@
+{
+  "APAC": {
+    "India": [
+      {
+        "Product": "Mobile",
+        "Amount": 200000
+      },
+      {
+        "Product": "Laptop",
+        "Amount": 300000
+      }
+    ],
+    "Japan": [
+      {
+        "Product": "Mobile",
+        "Amount": 175000
+      }
+    ]
+  },
+  "EU": {
+    "France": [
+      {
+        "Product": "Tablet",
+        "Amount": 90000
+      }
+    ],
+    "Germany": [
+      {
+        "Product": "Mobile",
+        "Amount": 264000
+      }
+    ]
+  }
+}
