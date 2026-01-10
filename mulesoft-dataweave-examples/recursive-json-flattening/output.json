@@ -1,0 +1,12 @@
+[
+  {
+    "order.id": "O1",
+    "order.customer.name": "Subhash",
+    "order.customer.city": "Hyderabad"
+  },
+  {
+    "order.id": "O2",
+    "order.customer.name": "Krishna",
+    "order.customer.city": "Kollapadakal"
+  }
+]
