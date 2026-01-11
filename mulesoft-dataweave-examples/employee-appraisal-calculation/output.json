@@ -1,0 +1,29 @@
+[
+  {
+    "id": 101,
+    "firstName": "John",
+    "lastName": "Doe",
+    "skills": [
+      "MuleSoft",
+      "Java",
+      "DataWeave",
+      "API"
+    ],
+    "NextAppraisalDate": "2026-12-01",
+    "experienceYears": 2,
+    "salary": "50000"
+  },
+  {
+    "id": 102,
+    "firstName": "Mary",
+    "lastName": "Ann  Smith",
+    "skills": [
+      "SQL",
+      "ETL",
+      "Data Modeling"
+    ],
+    "NextAppraisalDate": "2026-03-06",
+    "experienceYears": 3,
+    "salary": "56000"
+  }
+]
