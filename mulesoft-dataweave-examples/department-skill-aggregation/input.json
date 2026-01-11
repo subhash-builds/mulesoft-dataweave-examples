@@ -1,0 +1,18 @@
+{
+  "departments": [
+    {
+      "name": "IT",
+      "employees": [
+        { "name": "John", "skills": ["Java", "MuleSoft"] },
+        { "name": "Sara", "skills": ["Python", "Java"] },
+        { "name": "Bob", "skills": ["C++", "C"] }
+      ]
+    },
+    {
+      "name": "HR",
+      "employees": [
+        { "name": "Mark", "skills": ["Recruiting", "HRMS"] }
+      ]
+    }
+  ]
+}
