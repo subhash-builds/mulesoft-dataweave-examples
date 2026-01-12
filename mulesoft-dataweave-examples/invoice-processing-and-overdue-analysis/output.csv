@@ -1,0 +1,3 @@
+InvoiceNumber,CustomerID,Country,InvoiceDate,DueDate,DueDays,IsOverdue,InvoiceNetTotal
+INV-2025-011,C-4001,India,01/07/2025,05/07/2025,4,Y,2750
+INV-2025-012,C-4002,USA,03/07/2025,10/07/2025,7,N,1100
