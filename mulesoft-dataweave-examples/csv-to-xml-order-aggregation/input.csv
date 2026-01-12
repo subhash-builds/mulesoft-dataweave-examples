@@ -1,0 +1,7 @@
+OrderID,CustomerName,OrderDate,ItemCode,ItemName,Quantity,Price
+ORD001,Subhash Nagula,2025/01/10,ITEM1001,Keyboard,2,1200
+ORD001,Subhash Nagula,2025/01/10,ITEM1002,Mouse,1,600
+ORD002,Swaroopa Rangu,2025/02/15,ITEM2001,Laptop,1,54000
+ORD002,Swaroopa Rangu,2025/02/15,ITEM2005,Laptop Bag,1,1500
+ORD002,Swaroopa Rangu,2025/02/15,ITEM2009,HDMI Cable,2,450
+ORD003,Reshwanth Rangu,2025/03/12,ITEM3001,Monitor,1,9000

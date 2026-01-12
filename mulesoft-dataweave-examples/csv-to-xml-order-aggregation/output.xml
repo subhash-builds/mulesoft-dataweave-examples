@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Orders>
+  <Order OrderID="ORD001">
+    <CustomerName>Subhash Nagula</CustomerName>
+    <OrderDate>January 10, 2025</OrderDate>
+    <OrderLines>
+      <OrderLine>
+        <ItemCode>ITEM1001</ItemCode>
+        <ItemName>Keyboard</ItemName>
+        <Quantity>2</Quantity>
+        <Price>1200</Price>
+        <TotalPrice>2400</TotalPrice>
+      </OrderLine>
+      <OrderLine>
+        <ItemCode>ITEM1002</ItemCode>
+        <ItemName>Mouse</ItemName>
+        <Quantity>1</Quantity>
+        <Price>600</Price>
+        <TotalPrice>600</TotalPrice>
+      </OrderLine>
+    </OrderLines>
+    <GrandTotal>3000</GrandTotal>
+  </Order>
+  <Order OrderID="ORD002">
+    <CustomerName>Swaroopa Rangu</CustomerName>
+    <OrderDate>February 15, 2025</OrderDate>
+    <OrderLines>
+      <OrderLine>
+        <ItemCode>ITEM2001</ItemCode>
+        <ItemName>Laptop</ItemName>
+        <Quantity>1</Quantity>
+        <Price>54000</Price>
+        <TotalPrice>54000</TotalPrice>
+      </OrderLine>
+      <OrderLine>
+        <ItemCode>ITEM2005</ItemCode>
+        <ItemName>Laptop Bag</ItemName>
+        <Quantity>1</Quantity>
+        <Price>1500</Price>
+        <TotalPrice>1500</TotalPrice>
+      </OrderLine>
+      <OrderLine>
+        <ItemCode>ITEM2009</ItemCode>
+        <ItemName>HDMI Cable</ItemName>
+        <Quantity>2</Quantity>
+        <Price>450</Price>
+        <TotalPrice>900</TotalPrice>
+      </OrderLine>
+    </OrderLines>
+    <GrandTotal>56400</GrandTotal>
+  </Order>
+  <Order OrderID="ORD003">
+    <CustomerName>Reshwanth Rangu</CustomerName>
+    <OrderDate>March 12, 2025</OrderDate>
+    <OrderLines>
+      <OrderLine>
+        <ItemCode>ITEM3001</ItemCode>
+        <ItemName>Monitor</ItemName>
+        <Quantity>1</Quantity>
+        <Price>9000</Price>
+        <TotalPrice>9000</TotalPrice>
+      </OrderLine>
+    </OrderLines>
+    <GrandTotal>9000</GrandTotal>
+  </Order>
+</Orders>
