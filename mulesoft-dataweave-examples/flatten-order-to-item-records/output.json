@@ -1,0 +1,30 @@
+[
+  {
+    "orderId": "O1001",
+    "customerId": "C01",
+    "customerName": "Subhash",
+    "product": "Laptop",
+    "price": 70000
+  },
+  {
+    "orderId": "O1001",
+    "customerId": "C01",
+    "customerName": "Subhash",
+    "product": "Mouse",
+    "price": 500
+  },
+  {
+    "orderId": "O1002",
+    "customerId": "C02",
+    "customerName": "Mayuri",
+    "product": "Book",
+    "price": 700
+  },
+  {
+    "orderId": "O1002",
+    "customerId": "C02",
+    "customerName": "Mayuri",
+    "product": "Bag",
+    "price": 2500
+  }
+]
