@@ -1,0 +1,39 @@
+{
+  "orders": [
+    {
+      "id": "001",
+      "items": [
+        { "name": "Laptop", "quantity": 1, "price": 1200 },
+        { "name": "Mouse", "quantity": 2, "price": 25 }
+      ],
+      "expenses": {
+        "transit": 100,
+        "leadGeneration": 25,
+        "vendorProfit": 75
+      },
+      "shipped": true
+    },
+    {
+      "id": "002",
+      "items": [
+        { "name": "Monitor", "quantity": 2, "price": 300 },
+        { "name": "Keyboard", "quantity": 1, "price": 50 }
+      ],
+      "shipped": false
+    },
+    {
+      "id": "003",
+      "items": [
+        { "name": "Desk", "quantity": 1, "price": 200 },
+        { "name": "Chair", "quantity": 4, "price": 100 }
+      ],
+      "expenses": {
+        "transit": 20,
+        "leadGeneration": 10,
+        "vendorProfit": 10,
+        "assemblyCost": 10
+      },
+      "shipped": true
+    }
+  ]
+}

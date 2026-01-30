@@ -1,0 +1,20 @@
+[
+  {
+    "OrderId": "1",
+    "items": [
+      "Laptop",
+      "Mouse"
+    ],
+    "purchaseValue": 1225,
+    "profitGenerated": 1025
+  },
+  {
+    "OrderId": "3",
+    "items": [
+      "Desk",
+      "Chair"
+    ],
+    "purchaseValue": 300,
+    "profitGenerated": 250
+  }
+]
