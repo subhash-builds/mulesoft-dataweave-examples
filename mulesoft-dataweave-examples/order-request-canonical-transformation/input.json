@@ -1,0 +1,60 @@
+{
+    "requestMeta": {
+    "channel": "MOBILE",
+    "platform": "ANDROID",
+    "appVersion": "3.2.1",
+    "deviceId": "a9c3f7b2-45ef-4c01-9a22-ff88990011aa",
+    "ipAddress": "10.20.30.45",
+    "timestamp": "2026-01-20T10:45:30Z"
+    },
+    "order": {
+    "orderId": "ORD-MOB-20001",
+    "orderDate": "2026-01-20T10:45:30Z",
+    "currency": "INR",
+    "totalAmount": 2897.00
+    },
+    "customer": {
+    "customerId": "CUST-9001",
+    "firstName": "Subhash",
+    "lastName": "Patil",					
+    "email": "subhash.patil@gmail.com",
+    "phone": "9876543210",
+    "address": {
+        "line1": "Flat 404, Green Residency",
+        "city": "Pune",
+        "state": "MH",
+        "pinCode": 411057,
+        "country": "India"
+    }
+    },
+    "cartItems": [
+    {
+        "sku": "SKU-101",
+        "productName": "Wireless Mouse",
+        "quantity": 2,
+        "price": 799.00
+    },
+    {
+        "sku": "SKU-202",
+        "productName": "Keyboard",
+        "quantity": 1,
+        "price": 1299.00
+    }
+    ],
+    "payment": {
+    "paymentId": "PAY-MOB-556677",
+    "paymentMethod": "CARD",
+    "cardNumber": 411111111,
+    "cvv": 1233,
+    "amount": 2897.00,
+    "currency": "INR"
+    },
+    "deviceContext": {
+    "osVersion": "Android 14",
+    "networkType": "WIFI",
+    "location": {
+        "lat": 18.5679,
+        "lng": 73.9143
+    }
+    }
+}
