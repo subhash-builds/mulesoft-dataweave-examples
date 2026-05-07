@@ -1,0 +1,10 @@
+[
+  {
+    "path": "Root1/Child1/Child2",
+    "file": "abc.txt"
+  },
+  {
+    "path": "Root2/Child1/Child2",
+    "file": "xyz.txt"
+  }
+]
