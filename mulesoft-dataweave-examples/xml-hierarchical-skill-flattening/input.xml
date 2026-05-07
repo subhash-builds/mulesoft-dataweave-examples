@@ -1,0 +1,36 @@
+<company>
+  <department id="D1">
+    <employees>
+      <employee id="E1">
+        <skills>
+          <skill>Java</skill>
+          <skill>MuleSoft</skill>
+          <skill>Python</skill>
+        </skills>
+      </employee>
+      <employee id="E2">
+        <skills>
+          <skill>Javascript</skill>
+          <skill>Boomi</skill>
+        </skills>
+      </employee>
+    </employees>
+  </department>
+  <department id="D2">
+    <employees>
+      <employee id="E1">
+        <skills>
+          <skill>Project Management</skill>
+          <skill>Autocad</skill>
+          <skill>Revit</skill>
+        </skills>
+      </employee>
+      <employee id="E2">
+        <skills>
+          <skill>Site Testing</skill>
+          <skill>Site Surveying</skill>
+        </skills>
+      </employee>
+    </employees>
+  </department>
+</company>
