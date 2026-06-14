@@ -1,0 +1,23 @@
+[
+  {
+    "order_id": "ORD1001",
+    "customer_id": "CUS1001",
+    "product": "LAPTOP",
+    "quantity": "2",
+    "amount": "2400.00"
+  },
+  {
+    "order_id": "ORD1002",
+    "customer_id": "CUST1002",
+    "product": "MOUSE",
+    "quantity": "5",
+    "amount": "150.00"
+  },
+  {
+    "order_id": "OR1003",
+    "customer_id": "CUS1003",
+    "product": "KEYBOARD",
+    "quantity": "3",
+    "amount": "450.00"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "record": 1,
+    "order_id": "ORD1001",
+    "error": "customer_id missing"
+  },
+  {
+    "record": 3,
+    "order_id": "OR1003",
+    "error": "Invalid order_id format., customer_id missing"
+  }
+]
