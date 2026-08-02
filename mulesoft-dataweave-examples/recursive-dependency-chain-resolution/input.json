@@ -1,0 +1,10 @@
+{ 
+"items": [ 
+{"id": "A", "depends": ["B", "C"]}, 
+{"id": "B", "depends": ["D"]}, 
+{"id": "C", "depends": ["D", "E"]}, 
+{"id": "D", "depends": []}, 
+{"id": "E", "depends": []} 
+], 
+"target": "A"
+}
