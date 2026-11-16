@@ -1,0 +1,37 @@
+[
+  {
+    "StudentID": "S1",
+    "Name": "Subhash",
+    "Subject": "MATH"
+  },
+  {
+    "StudentID": "S1",
+    "Name": "Subhash",
+    "Subject": "ENG"
+  },
+  {
+    "StudentID": "S1",
+    "Name": "Subhash",
+    "Subject": "SCI"
+  },
+  {
+    "StudentID": "S2",
+    "Name": "Chaganti Koteshwar Rao",
+    "Subject": "MATH"
+  },
+  {
+    "StudentID": "S3",
+    "Name": "Narshima Rao",
+    "Subject": "ECO"
+  },
+  {
+    "StudentID": "S3",
+    "Name": "Narshima Rao",
+    "Subject": "GEO"
+  },
+  {
+    "StudentID": "S3",
+    "Name": "Narshima Rao",
+    "Subject": "SCI"
+  }
+]

@@ -1,0 +1,12 @@
+<Order>
+    <Header orderId="ORD123" date="2024-11-12">
+        <Customer>
+            <Name>John</Name>
+            <Email>john@test.com</Email>
+        </Customer>
+    </Header>
+    <Items>
+        <Item sku="A100" qty="2" price="50.5"/>
+        <Item sku="B200" qty="1" price="99.9"/>
+    </Items>
+</Order>

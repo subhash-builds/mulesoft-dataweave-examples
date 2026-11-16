@@ -1,0 +1,15 @@
+{
+  "C1": {
+    "overallAmount": 1300,
+    "categories": {
+      "Books": 500,
+      "Electronics": 800
+    }
+  },
+  "C2": {
+    "overallAmount": 150,
+    "categories": {
+      "Books": 150
+    }
+  }
+}

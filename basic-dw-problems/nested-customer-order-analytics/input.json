@@ -1,0 +1,120 @@
+{
+  "header": {
+    "customers": [
+      {
+        "custId": "C001",
+        "details": {
+          "name": {
+            "first": "Ravi",
+            "middle": "",
+            "last": "Kumar"
+          },
+          "contacts": [
+            {
+              "type": "mobile",
+              "value": "9876543210"
+            },
+            {
+              "type": "email",
+              "value": "ravi@example.com"
+            }
+          ],
+          "addresses": [
+            {
+              "addrType": "HOME",
+              "location": {
+                "line1": "12 MG Road",
+                "pin": "560001",
+                "coordinates": [
+                  77.5946,
+                  12.9716
+                ]
+              }
+            }
+          ]
+        },
+        "orders": [
+          {
+            "orderId": "ORD-111",
+            "orderDate": "2024-09-12",
+            "lineItems": [
+              {
+                "sku": "SKU123",
+                "qty": 2,
+                "price": 1500
+              },
+              {
+                "sku": "SKU777",
+                "qty": 1,
+                "price": 800
+              }
+            ],
+            "discounts": {
+              "seasonal": 200,
+              "coupons": [
+                "DISC10",
+                null,
+                "FESTIVE20"
+              ]
+            }
+          },
+          {
+            "orderId": "ORD-222",
+            "orderDate": "",
+            "lineItems": [
+            ],
+            "discounts": null
+          }
+        ]
+      },
+      {
+        "custId": "C002",
+        "details": {
+          "name": {
+            "first": "Maya",
+            "middle": "R",
+            "last": null
+          },
+          "contacts": [
+          ],
+          "addresses": [
+            {
+              "addrType": "HOME",
+              "location": {
+                "line1": "",
+                "pin": "440010",
+                "coordinates": [
+                  null,
+                  21.15
+                ]
+              }
+            }
+          ]
+        },
+        "orders": [
+          {
+            "orderId": "ORD-333",
+            "orderDate": "2024-01-10",
+            "lineItems": [
+              {
+                "sku": "SKU555",
+                "qty": 3,
+                "price": 950
+              },
+              {
+                "sku": "SKU888",
+                "qty": 0,
+                "price": 1200
+              }
+            ],
+            "discounts": {
+              "seasonal": null,
+              "coupons": [
+              ]
+            }
+          }
+        ]
+      }
+    ]     
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "Asia": {
+    "FOOD": {
+      "totalSales": 173.5,
+      "transactionCount": 2,
+      "latestTransactionDate": "2024/06/21 14:05:22"
+    },
+    "ELC": {
+      "totalSales": 99.99,
+      "transactionCount": 1,
+      "latestTransactionDate": "21-06-2024 02:05 PM"
+    }
+  },
+  "Europe": {
+    "FOOD": {
+      "totalSales": 800,
+      "transactionCount": 2,
+      "latestTransactionDate": "23-06-2024 05:05 PM"
+    }
+  }
+}

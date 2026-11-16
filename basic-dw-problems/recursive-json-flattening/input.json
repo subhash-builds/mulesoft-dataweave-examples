@@ -1,0 +1,16 @@
+{
+  "order": {
+    "id": "O1",
+    "customer": {
+      "name": "Subhash",
+      "city": "Hyderabad"
+    }
+  },
+  "order": {
+    "id": "O2",
+    "customer": {
+      "name": "Krishna",
+      "city": "Kollapadakal"
+    }
+  }
+}

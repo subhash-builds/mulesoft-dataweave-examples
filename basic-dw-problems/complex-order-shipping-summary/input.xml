@@ -1,0 +1,35 @@
+<orders>
+    <order id="A101" status="shipped" priority="high">
+        <customer>
+            <name>Subhash Nagula</name>
+            <type code="P">Premium</type>
+        </customer>
+        <items>
+            <item sku="M1001" category="mobile">
+                <name>iPhone 15</name>
+                <price>$78000</price>
+                <qty>1</qty>
+            </item>
+            <item sku="A5007" category="accessory">
+                <name>AirPods Pro</name>
+                <price>$25000</price>
+                <qty>2</qty>
+            </item>
+        </items>
+        <orderDate>2024-05-10</orderDate>
+    </order>
+    <order id="A102" status="pending" priority="low">
+        <customer>
+            <name>Rohit Sharma</name>
+            <type code="N">Normal</type>
+        </customer>
+        <items>
+            <item sku="L9001" category="laptop">
+                <name>MacBook Pro</name>
+                <price>$180000</price>
+                <qty>1</qty>
+            </item>
+        </items>
+        <orderDate>2024-05-11</orderDate>
+    </order>
+</orders>

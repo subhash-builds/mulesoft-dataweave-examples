@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProcessedOrders>
+  <Order>
+    <Client orderId="O101" status="NEW" totalAmount="1200">
+      <FullName>Subhash</FullName>
+      <Location>Hyderabad</Location>
+    </Client>
+    <OrderLines>
+      <Line productCode="P001" quantity="2" lineAmount="1000"/>
+      <Line productCode="P002" quantity="1" lineAmount="200"/>
+    </OrderLines>
+  </Order>
+  <Order>
+    <Client orderId="O102" status="NEW" totalAmount="1600">
+      <FullName>Mayuri</FullName>
+      <Location>Hyderabad</Location>
+    </Client>
+    <OrderLines>
+      <Line productCode="P003" quantity="4" lineAmount="1200"/>
+      <Line productCode="P004" quantity="2" lineAmount="400"/>
+    </OrderLines>
+  </Order>
+</ProcessedOrders>

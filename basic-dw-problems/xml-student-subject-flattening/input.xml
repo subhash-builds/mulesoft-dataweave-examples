@@ -1,0 +1,24 @@
+<university>
+  <student id="S1">
+    <name>Subhash</name>
+    <subjects>
+      <subject>MATH</subject>
+      <subject>ENG</subject>
+      <subject>SCI</subject>
+    </subjects>
+  </student>
+  <student id="S2">
+    <name>Chaganti Koteshwar Rao</name>
+    <subjects>
+      <subject>MATH</subject>
+    </subjects>
+  </student>
+    <student id="S3">
+    <name>Narshima Rao</name>
+    <subjects>
+      <subject>ECO</subject>
+      <subject>GEO</subject>
+      <subject>SCI</subject>
+    </subjects>
+  </student>
+</university>

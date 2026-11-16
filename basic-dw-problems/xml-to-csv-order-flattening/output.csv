@@ -1,0 +1,4 @@
+OrderId,CustomerName,Location,Product,Qty,Price,LineTotal,OrderDate
+A101,Subhash,India,P01,2,2495,4990,08-01-2026
+A101,Subhash,India,P02,3,30023,90069,01-01-2026
+A102,Krishnaveni,India,P03,4,3020,12080,08-12-2025

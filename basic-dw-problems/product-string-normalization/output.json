@@ -1,0 +1,25 @@
+{
+  "Count": 4,
+  "Items": [
+    {
+      "Code": "PRD-001",
+      "Name": "Laptop",
+      "Country": "india"
+    },
+    {
+      "Code": "PRD-002",
+      "Name": "Mouse",
+      "Country": "usa"
+    },
+    {
+      "Code": "PRD-003",
+      "Name": "Keyboard",
+      "Country": "uk"
+    },
+    {
+      "Code": "PRD-0033",
+      "Name": "Keyboard",
+      "Country": "uae"
+    }
+  ]
+}

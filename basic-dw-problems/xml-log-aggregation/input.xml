@@ -1,0 +1,11 @@
+<Logs>
+    <Log level="ERROR">
+        <Message>Disk full</Message>
+    </Log>
+    <Log level="INFO">
+        <Message>Started</Message>
+    </Log>
+    <Log level="ERROR">
+        <Message>Service down</Message>
+    </Log>
+</Logs>

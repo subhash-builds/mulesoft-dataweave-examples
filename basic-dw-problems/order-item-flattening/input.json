@@ -1,0 +1,40 @@
+{
+  "orders": [
+    {
+      "orderId": "ORD001",
+      "customer": {
+        "id": "C001",
+        "name": "John Doe"
+      },
+      "orderDate": "2023-11-01T14:30:00Z",
+      "items": [
+        {
+          "sku": "A100",
+          "description": "Red Shirt",
+          "qty": 2,
+          "price": 500
+        },
+        {
+          "sku": "A200",
+          "description": "Blue Jeans",
+          "qty": 1,
+          "price": 1200
+        }
+      ]
+    },
+    {
+      "orderId": "ORD002",
+      "customer": {
+        "id": "C002",
+        "name": "Jane Smith"
+      },
+      "orderDate": "2023-11-02T10:15:00Z",
+      "items": [{
+          "sku": "A200",
+          "description": "Blue Jeans",
+          "qty": 1,
+          "price": 1200
+        }]
+    }
+  ]
+}

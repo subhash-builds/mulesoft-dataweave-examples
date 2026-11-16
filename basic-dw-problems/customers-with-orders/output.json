@@ -1,0 +1,14 @@
+[
+  {
+    "id": "C1",
+    "name": "Ravi",
+    "totalOrders": 2,
+    "totalAmount": 800
+  },
+  {
+    "id": "C2",
+    "name": "Anita",
+    "totalOrders": 0,
+    "totalAmount": 0
+  }
+]

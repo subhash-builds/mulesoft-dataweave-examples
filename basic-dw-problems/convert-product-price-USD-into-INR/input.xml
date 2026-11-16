@@ -1,0 +1,17 @@
+<Products>
+    <Product>
+        <Id>100</Id>
+        <Category>Electronics</Category>
+        <Price currency="USD">1200</Price>
+    </Product>
+    <Product>
+        <Id>101</Id>
+        <Category>Grocery</Category>
+        <Price currency="INR">300</Price>
+    </Product>
+    <Product>
+        <Id>102</Id>
+        <Category>Electronics</Category>
+        <Price currency="USD">700</Price>
+    </Product>
+</Products>

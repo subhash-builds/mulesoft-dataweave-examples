@@ -1,0 +1,60 @@
+[
+  {
+    "id": "A101",
+    "status": "shipped",
+    "priority": "high",
+    "customer": {
+      "name": "Subhash Nagula",
+      "type": {
+        "code": "P",
+        "label": "Premium"
+      }
+    },
+    "items": [
+      {
+        "category": "mobile",
+        "products": [
+          {
+            "name": "iPhone 15",
+            "price": "$78000",
+            "qty": "1"
+          }
+        ]
+      },
+      {
+        "category": "accessory",
+        "products": [
+          {
+            "name": "AirPods Pro",
+            "price": "$25000",
+            "qty": "2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "A102",
+    "status": "pending",
+    "priority": "low",
+    "customer": {
+      "name": "Rohit Sharma",
+      "type": {
+        "code": "N",
+        "label": "Normal"
+      }
+    },
+    "items": [
+      {
+        "category": "laptop",
+        "products": [
+          {
+            "name": "MacBook Pro",
+            "price": "$180000",
+            "qty": "1"
+          }
+        ]
+      }
+    ]
+  }
+]

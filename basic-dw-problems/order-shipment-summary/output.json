@@ -1,0 +1,45 @@
+[
+  {
+    "orderID": "So01",
+    "orderedQuantity": "200 units",
+    "shipment": {
+      "shipmentID": [
+        1,
+        2
+      ]
+    },
+    "shipmentQuantity": [
+      "50 units",
+      "110 units"
+    ],
+    "pendingQuantity": 40
+  },
+  {
+    "orderID": "So02",
+    "orderedQuantity": "200 units",
+    "shipment": {
+      "shipmentID": [
+        3,
+        4
+      ]
+    },
+    "shipmentQuantity": [
+      "100 units",
+      "80 units"
+    ],
+    "pendingQuantity": 20
+  },
+  {
+    "orderID": "So03",
+    "orderedQuantity": "300 units",
+    "shipment": {
+      "shipmentID": [
+        5
+      ]
+    },
+    "shipmentQuantity": [
+      "150 units"
+    ],
+    "pendingQuantity": 150
+  }
+]

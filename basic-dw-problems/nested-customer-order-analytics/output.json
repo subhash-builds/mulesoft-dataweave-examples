@@ -1,0 +1,34 @@
+[
+  {
+    "customer": "C001",
+    "orders": [
+      {
+        "orderId": "ORD-111",
+        "hasDiscounts": 200,
+        "items": [
+          "SKU123",
+          "SKU777"
+        ],
+        "avgOrderValue": 3800,
+        "coupons": 2
+      },
+      {
+        "orderId": "ORD-222"
+      }
+    ]
+  },
+  {
+    "customer": "C002",
+    "orders": [
+      {
+        "orderId": "ORD-333",
+        "items": [
+          "SKU555",
+          "SKU888"
+        ],
+        "avgOrderValue": 2850,
+        "coupons": 0
+      }
+    ]
+  }
+]

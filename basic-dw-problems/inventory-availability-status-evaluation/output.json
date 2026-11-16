@@ -1,0 +1,19 @@
+{
+  "orderId": "ORD-10001",
+  "overallStatus": "PARTIALLY_AVAILABLE",
+  "items": [
+    {
+      "sku": "SKU-101",
+      "requestedQuantity": 2,
+      "availableQuantity": 50,
+      "status": "AVAILABLE"
+    },
+    {
+      "sku": "SKU-202",
+      "requestedQuantity": 1,
+      "availableQuantity": 0,
+      "status": "OUT_OF_STOCK"
+    }
+  ],
+  "correlationId": "9f1c2a8e-4b6d-4d8a-b7c1-8a92f6c9a1e3"
+}

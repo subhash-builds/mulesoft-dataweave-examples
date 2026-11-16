@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Peter Parker",
+    "password": "XXXXXX"
+  },
+  {
+    "name": "Bruce Wayne",
+    "password": "XXXXXX"
+  },
+  {
+    "name": "Clark Kent",
+    "password": "XXXXXX"
+  },
+  {
+    "name": "Tony Stark",
+    "password": "XXXXXX"
+  },
+  {
+    "name": "Steve Rogers",
+    "password": "XXXXXX"
+  },
+  {
+    "name": "Natasha Romanoff",
+    "password": "XXXXXX"
+  },
+  {
+    "name": "Diana Prince",
+    "password": "XXXXXX"
+  },
+  {
+    "name": "Barry Allen",
+    "password": "XXXXXX"
+  }
+]

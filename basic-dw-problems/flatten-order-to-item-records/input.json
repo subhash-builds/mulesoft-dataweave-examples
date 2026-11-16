@@ -1,0 +1,26 @@
+{
+  "orders": [
+    {
+      "orderId": "O1001",
+      "customer": {
+        "id": "C01",
+        "name": "Subhash"
+      },
+      "items": [
+        { "product": "Laptop", "price": 70000 },
+        { "product": "Mouse", "price": 500 }
+      ]
+    },
+    {
+      "orderId": "O1002",
+      "customer": {
+        "id": "C02",
+        "name": "Mayuri"
+      },
+      "items": [
+        { "product": "Book", "price": 700 },
+        { "product": "Bag", "price": 2500 }
+      ]
+    }
+  ]
+}

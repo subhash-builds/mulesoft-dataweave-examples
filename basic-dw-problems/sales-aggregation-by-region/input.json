@@ -1,0 +1,9 @@
+{
+  "orders": [
+    { "id": 1, "region": "US", "amount": 200 },
+    { "id": 2, "region": "EU", "amount": 150 },
+    { "id": 3, "region": "US", "amount": 300 },
+    { "id": 4, "region": "EU", "amount": 100 },
+    { "id": 5, "region": "AUS", "amount": 100 }
+  ]
+}

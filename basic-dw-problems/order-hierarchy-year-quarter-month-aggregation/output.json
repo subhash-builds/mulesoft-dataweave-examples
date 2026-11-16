@@ -1,0 +1,38 @@
+{
+  "2023": {
+    "total": 50,
+    "Q1": {
+      "total": 50,
+      "months": {
+        "January": 50
+      }
+    }
+  },
+  "2024": {
+    "total": 750,
+    "Q1": {
+      "total": 250,
+      "months": {
+        "January": 250,
+        "April": 200,
+        "July": 300
+      }
+    },
+    "Q2": {
+      "total": 200,
+      "months": {
+        "January": 250,
+        "April": 200,
+        "July": 300
+      }
+    },
+    "Q3": {
+      "total": 300,
+      "months": {
+        "January": 250,
+        "April": 200,
+        "July": 300
+      }
+    }
+  }
+}

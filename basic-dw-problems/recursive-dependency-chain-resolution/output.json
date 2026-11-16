@@ -1,0 +1,26 @@
+{
+  "target": "A",
+  "allDependencies": [
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "dependencyTree": {
+    "A": {
+      "B": {
+        "D": {
+          
+        }
+      },
+      "C": {
+        "D": {
+          
+        },
+        "E": {
+          
+        }
+      }
+    }
+  }
+}

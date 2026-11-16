@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "name": "A",
+    "children": [
+      {
+        "id": 2,
+        "name": "B",
+        "children": [
+          {
+            "id": 3,
+            "name": "C",
+            "children": [
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "D",
+        "children": [
+          
+        ]
+      }
+    ]
+  }
+]

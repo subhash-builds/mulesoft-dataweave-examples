@@ -1,0 +1,36 @@
+<Orders>
+    <Order id="A101">
+        <Customer>
+            <Name>Subhash</Name>
+            <Country>India</Country>
+        </Customer>
+        <Items>
+            <Item>
+                <Product>P01</Product>
+                <Qty>2</Qty>
+                <Price>2495</Price>
+                <OrderDate>08-01-2026</OrderDate>
+            </Item>
+            <Item>
+                <Product>P02</Product>
+                <Qty>3</Qty>
+                <Price>30023</Price>
+                <OrderDate>01-01-2026</OrderDate>
+            </Item>
+        </Items>
+    </Order>
+        <Order id="A102">
+        <Customer>
+            <Name>Krishnaveni</Name>
+            <Country>India</Country>
+        </Customer>
+        <Items>
+            <Item>
+                <Product>P03</Product>
+                <Qty>4</Qty>
+                <Price>3020</Price>
+                <OrderDate>08-12-2025</OrderDate>
+            </Item>
+        </Items>
+    </Order>
+</Orders>

@@ -1,0 +1,19 @@
+[
+  {
+    "ERROR": {
+      "count": 2,
+      "messages": [
+        "Disk full",
+        "Service down"
+      ]
+    }
+  },
+  {
+    "INFO": {
+      "count": 1,
+      "messages": [
+        "Started"
+      ]
+    }
+  }
+]

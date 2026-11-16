@@ -1,0 +1,52 @@
+[
+  {
+    "Contract Name": 109,
+    "Counterparty Name": 13969,
+    "Is PII Involved?": 13965,
+    "Will the vendor require network access?": 13964,
+    "Contract Value": 112,
+    "Effective Date": 121,
+    "Expiration Date - Quarter": 5695,
+    "Is AI in use?": 13966,
+    "Will the vendor collect store or transmit CHD?": 13968,
+    "Legal CSOR ID": 13970,
+    "Is sensitive information collected?": 13967
+  },
+  {
+    "Contract Name": 109,
+    "Counterparty Name": 13969,
+    "Is PII Involved?": 13965,
+    "Will the vendor require network access?": 13964,
+    "Contract Value": 112,
+    "Effective Date": 121,
+    "Expiration Date - Quarter": 5695,
+    "Is AI in use?": 13966,
+    "Will the vendor collect store or transmit CHD?": 13968,
+    "Legal CSOR ID": 13970,
+    "Is sensitive information collected?": 13967
+  },
+  {
+    "Contract Name": 109,
+    "Counterparty Name": 13969,
+    "Is PII Involved?": 13965,
+    "Will the vendor require network access?": 13964,
+    "Contract Value": 112,
+    "Is AI in use?": 13966,
+    "Will the vendor collect store or transmit CHD?": 13968,
+    "Legal CSOR ID": 13970,
+    "Is sensitive information collected?": 13967
+  },
+  {
+    "Contract Name": 109,
+    "Counterparty Name": 13969,
+    "Is PII Involved?": 13965,
+    "Will the vendor require network access?": 13964,
+    "Contract Value": 112,
+    "Effective Date": 121,
+    "Expiration Date - Quarter": 5695,
+    "Is AI in use?": 13966,
+    "Will the vendor collect store or transmit CHD?": 13968,
+    "Legal CSOR ID": 13970,
+    "Is sensitive information collected?": 13967
+  }
+]

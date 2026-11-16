@@ -1,0 +1,30 @@
+{
+  "categories": [
+    {
+      "name": "Electronics",
+      "products": [
+        {
+          "id": "P1",
+          "name": "Laptop"
+        },
+        {
+          "id": "P2",
+          "name": "Phone"
+        }
+      ]
+    },
+    {
+      "name": "Clothing",
+      "products": [
+        {
+          "id": "P3",
+          "name": "Shirt"
+        },
+        {
+          "id": "P1",
+          "name": "Laptop"
+        }
+      ]
+    }
+  ]
+}

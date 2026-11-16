@@ -1,0 +1,21 @@
+{
+  "andfilter": [
+    {
+      "field": "Compliance Review Status",
+      "operator": "eq",
+      "value": "Teja"
+    },
+    {
+      "field": "123",
+      "operator": "eq",
+      "value": "Subha"
+    }
+  ],
+  "orfilter": [
+    {
+      "field": "Compliance Review Status",
+      "operator": "contains",
+      "value": "Rejected"
+    }
+  ]
+}

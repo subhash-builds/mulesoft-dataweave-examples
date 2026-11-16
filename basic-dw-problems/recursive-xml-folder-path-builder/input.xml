@@ -1,0 +1,16 @@
+<folders>
+  <folder name="Root1">
+    <folder name="Child1">
+      <folder name="Child2">
+        <file>abc.txt</file>
+      </folder>
+    </folder>
+  </folder>
+    <folder name="Root2">
+    <folder name="Child1">
+      <folder name="Child2">
+        <file>xyz.txt</file>
+      </folder>
+    </folder>
+  </folder>
+</folders>

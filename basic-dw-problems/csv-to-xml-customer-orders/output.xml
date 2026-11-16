@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Customers>
+  <Customer CustomerID="1" CustomerName="Shiva" totalAmount="570">
+    <Orders>
+      <Order lineItem="1">
+        <OrderID>101</OrderID>
+        <Amount>250</Amount>
+      </Order>
+      <Order lineItem="2">
+        <OrderID>103</OrderID>
+        <Amount>320</Amount>
+      </Order>
+    </Orders>
+  </Customer>
+  <Customer CustomerID="2" CustomerName="Parvathi" totalAmount="180">
+    <Orders>
+      <Order lineItem="1">
+        <OrderID>102</OrderID>
+        <Amount>180</Amount>
+      </Order>
+    </Orders>
+  </Customer>
+  <Customer CustomerID="3" CustomerName="Krishna" totalAmount="150">
+    <Orders>
+      <Order lineItem="1">
+        <OrderID>104</OrderID>
+        <Amount>150</Amount>
+      </Order>
+    </Orders>
+  </Customer>
+  <Customer CustomerID="4" CustomerName="Subhash" totalAmount="0">
+    <Orders>
+      <Order lineItem="1">
+        <OrderID>105</OrderID>
+        <Amount>null</Amount>
+      </Order>
+    </Orders>
+  </Customer>
+</Customers>

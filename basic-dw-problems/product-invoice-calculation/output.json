@@ -1,0 +1,22 @@
+[
+  {
+    "item": "Apple",
+    "totalPrice": 501
+  },
+  {
+    "item": "Banana",
+    "totalPrice": 166.5
+  },
+  {
+    "item": "Cherry",
+    "totalPrice": 488
+  },
+  {
+    "item": "Date",
+    "totalPrice": 61
+  },
+  {
+    "item": "Elderberry",
+    "totalPrice": 144
+  }
+]

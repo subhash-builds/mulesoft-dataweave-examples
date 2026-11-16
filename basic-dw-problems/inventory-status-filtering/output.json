@@ -1,0 +1,25 @@
+{
+  "availableItem": [
+    {
+      "orderId": 1,
+      "items": [
+        "Pen"
+      ]
+    },
+    {
+      "orderId": 2,
+      "items": [
+        "Shirt"
+      ]
+    }
+  ],
+  "unAvailableItem": [
+    {
+      "orderId": 1,
+      "items": [
+        "Book",
+        "Cover"
+      ]
+    }
+  ]
+}

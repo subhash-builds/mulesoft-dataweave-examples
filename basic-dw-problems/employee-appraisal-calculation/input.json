@@ -1,0 +1,20 @@
+{
+  "employees": [
+    {
+      "id": 101,
+      "name": "John Doe",
+      "skills": "MuleSoft, Java,  DataWeave , API  ",
+      "joiningDate": "2024-11-29",
+      "currentAppraisalDate":"2025-11-30",
+      "salary": "50000"
+    },
+    {
+      "id": 102,
+      "name": "Mary Ann  Smith",
+      "skills": "SQL ,   ETL, Data Modeling",
+      "joiningDate": "2023-03-05",
+      "currentAppraisalDate":"2025-03-05",
+      "salary": "56000"
+    }
+  ]
+}

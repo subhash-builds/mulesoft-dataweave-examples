@@ -1,0 +1,30 @@
+{
+  "orderId": "ORD-MOB-20001",
+  "orderStatus": "VALIDATED",
+  "customer": {
+    "customerId": "CUST-9001",
+    "name": "Subhash Patil",
+    "email": "subhash.patil@gmail.com",
+    "phone": "9876543210",
+    "address": "Flat 404, Green Residency, Pune, India, MH - 411057"
+  },
+  "orderItems": [
+    {
+      "sku": "SKU-101",
+      "qty": 2,
+      "unitPrice": 799
+    },
+    {
+      "sku": "SKU-202",
+      "qty": 1,
+      "unitPrice": 1299
+    }
+  ],
+  "payment": {
+    "paymentId": "PAY-MOB-556677",
+    "paymentMethod": "CARD",
+    "cardNumber": 411111111,
+    "cvv": 1233,
+    "amount": 2897
+  }
+}

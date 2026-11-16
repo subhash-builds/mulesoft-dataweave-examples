@@ -1,0 +1,6 @@
+<employees>
+  <emp><name>Adam</name><dept>HR</dept></emp>
+  <emp><name>John</name><dept>IT</dept></emp>
+  <emp><name>Akash</name><dept>Finance</dept></emp>
+  <emp><name>Jacob</name><dept>IT</dept></emp>
+</employees>

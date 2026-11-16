@@ -1,0 +1,32 @@
+[
+  {
+    "Location": "Delhi",
+    "UnitsOrdered": 10270,
+    "Report": [
+      {
+        "Air Purifier": {
+          "Avgstock": 1495,
+          "Avgsales": 2875
+        }
+      },
+      {
+        "Vaccum Cleaner": {
+          "Avgstock": 1072.5,
+          "Avgsales": 3400
+        }
+      }
+    ]
+  },
+  {
+    "Location": "Hyderabad",
+    "UnitsOrdered": 4860,
+    "Report": [
+      {
+        "HairDryer": {
+          "Avgstock": 1215,
+          "Avgsales": 3500
+        }
+      }
+    ]
+  }
+]

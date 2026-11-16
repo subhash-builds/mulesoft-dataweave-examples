@@ -1,0 +1,242 @@
+{
+    "pageNumber": 1,
+    "pageSize": 4,
+    "totalPages": 1,
+    "totalRecords": 4,
+    "items": [
+        {
+            "appId": 51,
+            "recordId": 130,
+            "fieldData": [
+                {
+                    "type": "String",
+                    "fieldId": 109,
+                    "value": "Test Sample Record"
+                },
+                {
+                    "type": "String",
+                    "fieldId": 13969,
+                    "value": "Test Record"
+                },
+                {
+                    "type": "Guid",
+                    "fieldId": 13965,
+                    "value": "1f062be2-5fb6-45ba-b63d-9f549bbc5cc9"
+                },
+                {
+                    "type": "Guid",
+                    "fieldId": 13964,
+                    "value": "1f062be2-5fb6-45ba-b63d-9f549bbc5cc9"
+                },
+                {
+                    "type": "Decimal",
+                    "fieldId": 112,
+                    "value": 21000.0
+                },
+                {
+                    "type": "Date",
+                    "fieldId": 121,
+                    "value": "2026-03-03T00:00:00Z"
+                },
+                {
+                    "type": "Guid",
+                    "fieldId": 5695,
+                    "value": "9b7d9677-d294-40ce-a2e2-3f07ed8f25eb"
+                },
+                {
+                    "type": "Guid",
+                    "fieldId": 13966,
+                    "value": "1f062be2-5fb6-45ba-b63d-9f549bbc5cc9"
+                },
+                {
+                    "type": "Guid",
+                    "fieldId": 13968,
+                    "value": "1f062be2-5fb6-45ba-b63d-9f549bbc5cc9"
+                },
+                {
+                    "type": "String",
+                    "fieldId": 13970,
+                    "value": "TICID-001"
+                },
+                {
+                    "type": "Guid",
+                    "fieldId": 13967,
+                    "value": "1f062be2-5fb6-45ba-b63d-9f549bbc5cc9"
+                }
+            ]
+        },
+        {
+            "appId": 51,
+            "recordId": 132,
+            "fieldData": [
+                {
+                    "type": "String",
+                    "fieldId": 109,
+                    "value": "Test Sample Record"
+                },
+                {
+                    "type": "String",
+                    "fieldId": 13969,
+                    "value": "Test Record"
+                },
+                {
+                    "type": "Guid",
+                    "fieldId": 13965,
+                    "value": "1f062be2-5fb6-45ba-b63d-9f549bbc5cc9"
+                },
+                {
+                    "type": "Guid",
+                    "fieldId": 13964,
+                    "value": "1f062be2-5fb6-45ba-b63d-9f549bbc5cc9"
+                },
+                {
+                    "type": "Decimal",
+                    "fieldId": 112,
+                    "value": 21000.0
+                },
+                {
+                    "type": "Date",
+                    "fieldId": 121,
+                    "value": "2026-03-05T00:00:00Z"
+                },
+                {
+                    "type": "Guid",
+                    "fieldId": 5695,
+                    "value": "9b7d9677-d294-40ce-a2e2-3f07ed8f25eb"
+                },
+                {
+                    "type": "Guid",
+                    "fieldId": 13966,
+                    "value": "1f062be2-5fb6-45ba-b63d-9f549bbc5cc9"
+                },
+                {
+                    "type": "Guid",
+                    "fieldId": 13968,
+                    "value": "1f062be2-5fb6-45ba-b63d-9f549bbc5cc9"
+                },
+                {
+                    "type": "String",
+                    "fieldId": 13970,
+                    "value": "TICID-002"
+                },
+                {
+                    "type": "Guid",
+                    "fieldId": 13967,
+                    "value": "1f062be2-5fb6-45ba-b63d-9f549bbc5cc9"
+                }
+            ]
+        },
+        {
+            "appId": 51,
+            "recordId": 133,
+            "fieldData": [
+                {
+                    "type": "String",
+                    "fieldId": 109,
+                    "value": "Test Sample Record"
+                },
+                {
+                    "type": "String",
+                    "fieldId": 13969,
+                    "value": "Test Record"
+                },
+                {
+                    "type": "Guid",
+                    "fieldId": 13965,
+                    "value": "1f062be2-5fb6-45ba-b63d-9f549bbc5cc9"
+                },
+                {
+                    "type": "Guid",
+                    "fieldId": 13964,
+                    "value": "1f062be2-5fb6-45ba-b63d-9f549bbc5cc9"
+                },
+                {
+                    "type": "Decimal",
+                    "fieldId": 112,
+                    "value": 21000.0
+                },
+                {
+                    "type": "Guid",
+                    "fieldId": 13966,
+                    "value": "1f062be2-5fb6-45ba-b63d-9f549bbc5cc9"
+                },
+                {
+                    "type": "Guid",
+                    "fieldId": 13968,
+                    "value": "1f062be2-5fb6-45ba-b63d-9f549bbc5cc9"
+                },
+                {
+                    "type": "String",
+                    "fieldId": 13970,
+                    "value": "TICID-003"
+                },
+                {
+                    "type": "Guid",
+                    "fieldId": 13967,
+                    "value": "1f062be2-5fb6-45ba-b63d-9f549bbc5cc9"
+                }
+            ]
+        },
+        {
+            "appId": 51,
+            "recordId": 134,
+            "fieldData": [
+                {
+                    "type": "String",
+                    "fieldId": 109,
+                    "value": "Test Sample Record"
+                },
+                {
+                    "type": "String",
+                    "fieldId": 13969,
+                    "value": "Test Record"
+                },
+                {
+                    "type": "Guid",
+                    "fieldId": 13965,
+                    "value": "1f062be2-5fb6-45ba-b63d-9f549bbc5cc9"
+                },
+                {
+                    "type": "Guid",
+                    "fieldId": 13964,
+                    "value": "1f062be2-5fb6-45ba-b63d-9f549bbc5cc9"
+                },
+                {
+                    "type": "Decimal",
+                    "fieldId": 112,
+                    "value": 21000.0
+                },
+                {
+                    "type": "Date",
+                    "fieldId": 121,
+                    "value": "2026-03-05T00:00:00Z"
+                },
+                {
+                    "type": "Guid",
+                    "fieldId": 5695,
+                    "value": "9b7d9677-d294-40ce-a2e2-3f07ed8f25eb"
+                },
+                {
+                    "type": "Guid",
+                    "fieldId": 13966,
+                    "value": "1f062be2-5fb6-45ba-b63d-9f549bbc5cc9"
+                },
+                {
+                    "type": "Guid",
+                    "fieldId": 13968,
+                    "value": "1f062be2-5fb6-45ba-b63d-9f549bbc5cc9"
+                },
+                {
+                    "type": "String",
+                    "fieldId": 13970,
+                    "value": "TICID-005"
+                },
+                {
+                    "type": "Guid",
+                    "fieldId": 13967,
+                    "value": "1f062be2-5fb6-45ba-b63d-9f549bbc5cc9"
+                }
+            ]
+        }
+    ]
+}
