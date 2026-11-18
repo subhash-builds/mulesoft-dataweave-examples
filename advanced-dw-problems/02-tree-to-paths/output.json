@@ -1,0 +1,18 @@
+[
+  {
+    "path": "A",
+    "depth": 0
+  },
+  {
+    "path": "A > B",
+    "depth": 1
+  },
+  {
+    "path": "A > B > C",
+    "depth": 2
+  },
+  {
+    "path": "A > D",
+    "depth": 1
+  }
+]
