@@ -1,0 +1,20 @@
+{
+  "userId": 1,
+  "firstName": "Ann",
+  "middleName": null,
+  "homeAddress": {
+    "streetName": "MG Road",
+    "zipCode": null
+  },
+  "phoneNumbers": [
+    {
+      "phoneType": "mobile",
+      "isPrimary": true
+    },
+    [
+      {
+        "nestedKey": "keep_this_value"
+      }
+    ]
+  ]
+}

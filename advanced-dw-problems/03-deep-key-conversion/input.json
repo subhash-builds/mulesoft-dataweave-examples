@@ -1,0 +1,20 @@
+{
+  "user_id": 1,
+  "first_name": "Ann",
+  "middle_name": null,
+  "home_address": {
+    "street_name": "MG Road",
+    "zip_code": null
+  },
+  "phone_numbers": [
+    {
+      "phone_type": "mobile",
+      "is_primary": true
+    },
+    [
+      {
+        "nested_key": "keep_this_value"
+      }
+    ]
+  ]
+}
